@@ -1,7 +1,7 @@
-<h1 align="center">Oi, eu sou a Allana! 👋</h1>
+<h1 align="center">Oiiii, sou a Allana! 👋</h1>
 
 <p align="center">
-  <b>Analista de Sistemas · Estudante de Ciência da Computação · Chapecó, SC 🌲</b>
+  <b> · Estudante de Ciência da Computação · Chapecó, SC </b>
 </p>
 
 <p align="center">
@@ -17,8 +17,7 @@
 
 ### 👩‍💻 Sobre mim
 
-- 🏢 Atualmente sou **Analista de Sistemas na MultiTMS by nstech**
-- 🎓 Cursando **Bacharelado em Ciência da Computação** na UFFS
+- 🎓 Atualmente estou Cursando **Bacharelado em Ciência da Computação** na UFFS
 - 🔧 Tenho experiência com **ERP TOTVS Protheus / ADVPL**, **automações com n8n** e documentações técnicas
 - 🤝 Gosto de colaborar com times de desenvolvimento, participar de **event storming** e **kick-offs**
 - 📚 Sempre aprendendo: atualmente estudando **C#** e desenvolvimento de software
